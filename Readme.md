@@ -14,6 +14,9 @@ To run my project file run CapStoneProj.py file and select your python interpete
 ## CAREFUL!! ⚠️
 - Some kernel can only run once 
     - set index (if you run more than once kernel will crash)
+    - kernel in this photo can't be run twice
+
+    ![kernelBug](https://user-images.githubusercontent.com/57552247/156045630-f7d05f30-6a44-4ae7-bed5-d9e0bd10b687.png)
 
 ## Data set (Need to dowload) 🥺
 To run this code you needed to download dataset
